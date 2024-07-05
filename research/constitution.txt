@@ -1,0 +1,17 @@
+Alchemical binding free energy calculations in AMBER20: Advances and best practices for drug discovery.
+Accelerated Computation of Free Energy Profile at ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semi-Empirical Reference Potential. I. Weighted Thermodynamics Perturbation.
+Accelerated computation of free energy profile at ab initio quantum mechanical/molecular mechanical accuracy via a semi-empirical reference potential. II. Recalibrating semi-empirical parameters with force matching.
+Efficient strategy for the calculation of solvation free energies in water and chloroform at the quantum mechanical/molecular mechanical level.
+Accelerated Computation of Free Energy Profile at Ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semiempirical Reference Potential. 4. Adaptive QM/MM.
+Accelerated Computation of Free Energy Profile at Ab Initio Quantum Mechanical/Molecular Mechanics Accuracy via a Semiempirical Reference Potential. 3. Gaussian Smoothing on Density-of-States.
+Solvation Free Energy Calculation Using a Fixed-Charge Model: Implicit and Explicit Treatments of the Polarization Effect.
+Efficient computation of free energy surfaces of Diels–Alder reactions in explicit solvent at ab initio QM/MM level.
+Computational insights into endo/exo selectivity of the diels–alder reaction in explicit solvent at ab initio quantum mechanical/molecular mechanical level.
+Calculations of the absolute binding free energies for Ralstonia solanacearum lectins bound with methyl-α-L-fucoside at molecular mechanical and quantum mechanical/molecular mechanical levels.
+Precise binding free energy calculations for multiple molecules using an optimal measurement network of pairwise differences.
+Discovery of SBF1 as an allosteric inhibitor targeting the PIF-pocket of 3-phosphoinositide-dependent protein kinase-1.
+Perspective: Reference-Potential Methods for the Study of Thermodynamic Properties in Chemical Processes: Theory, Applications, and Pitfalls.
+Comparison of Accuracy and Convergence Rate between Equilibrium and Nonequilibrium Alchemical Transformations for Calculation of Relative Binding Free Energy.
+Potent inhibitors targeting cyclin-dependent kinase 9 discovered via virtual high-throughput screening and absolute binding free energy calculations.
+Selectivity of parvalbumin B protein binding to Ca2+ and Mg2+ at an ab initio QM/MM level using the reference-potential method.
+Structures of the essential efflux pump EfpA from Mycobacterium tuberculosis reveal the mechanisms of substrate transport and small-molecule inhibition.
